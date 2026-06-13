@@ -5,16 +5,20 @@ This project focuses on analyzing sales transaction data using SQL queries in Go
 
 The analysis helps identify top-performing products and provides insights into sales performance based on completed deliveries.
 
+
+
+The main goals of this project were to answer this question:
+
+What was the  product sales performance?
+What was the highest-performing products based on revenue?
+
 Objective
 
-The main goals of this project were to:
-
-Analyze product sales performance
 Calculate total orders per product
 Measure quantity sold
 Determine average product pricing
-Compute total revenue generated
-Identify high-performing products based on revenue
+The Compute total revenue generated
+
 Technologies Used
 Google BigQuery
 SQL
